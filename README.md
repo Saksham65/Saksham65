@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi, I am Saksham Goel, Senior at IIT Delhi</h1>
+<!-- <h3 align="center">I am into exploring Deep Neural nets</h3>
+ -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham65&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 
-<!--
-**Saksham65/Saksham65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on **Fine Tuning Open Source LLMs**
 
-Here are some ideas to get you started:
+- I’m currently learning **Trending LLM models**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ask me about **LLMs and Gen AI**
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=saksham65&count_private=true&show_icons=true&theme=chartreuse-dark&PAT_1" width="400"></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham65&count_private=true&layout=compact&theme=highcontrast&langs_count=15&include_all_commits=true&PAT_1" width="335"></a>
+</p>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham65&theme=dark&count_private=true&background=000000&PAT_1" alt="madhav-mknc" />
+</p>
+
+![Visitor Count](https://profile-counter.glitch.me/madhav-mknc/count.svg)
