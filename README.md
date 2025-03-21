@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I am Saksham Goel, Senior at IIT Delhi</h1>
 <!-- <h3 align="center">I am into exploring Deep Neural nets</h3>
  -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham65&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 
 
 
