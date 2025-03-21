@@ -3,11 +3,7 @@
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham65&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 
-- I’m currently working on **Fine Tuning Open Source LLMs**
 
-- I’m currently learning **Trending LLM models**
-
-- Ask me about **LLMs and Gen AI**
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=saksham65&count_private=true&show_icons=true&theme=chartreuse-dark&PAT_1" width="400"></a>
